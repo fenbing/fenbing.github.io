@@ -1,5 +1,5 @@
 # [嗨，你好啊！欢迎来到我的博客！][1]
-[1]: https://achuan.io
+[1]: https://fenbing.github.io
 
 ## 博客目录结构
 
